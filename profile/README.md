@@ -66,10 +66,10 @@ We welcome contributions from the community! To contribute:
 4. Push to the branch: `git push origin my-feature-branch`.
 5. Submit a pull request.
 
-Please ensure your code follows our [coding standards](link-to-coding-standards) and [contribution guidelines](link-to-contribution-guidelines).
+Please ensure your code follows our [coding standards](https://github.com/zuhaworld-sc/.github/blob/main/CONTRIBUTING.md#our-standards) and [contribution guidelines](https://github.com/zuhaworld-sc/.github/blob/main/CONTRIBUTING.md#contribution-guidelines).
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/zuhaworld-sc/.github?tab=MIT-1-ov-file#).
 
 ## Contact
 For any questions, feel free to [reach out to the team](mailto:info@zuhaworld.com).
