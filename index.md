@@ -3,7 +3,7 @@ layout: home
 title: .github
 subtitle: This is where I will tell my friends way too much about me
 ---
-[.github](./) | [Profile](./profile)
+[.github](./) | [ZuhaWorld Sc](./profile)
 
 ![.github](/assets/img/logo.png)
 
