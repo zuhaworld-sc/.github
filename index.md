@@ -3,14 +3,74 @@ layout: home
 title: .github
 subtitle: This is where I will tell my friends way too much about me
 ---
-[.github](./) | [ZuhaWorld Sc](./profile)
+[.github](./) | [Profile](./profile)
 
 ![.github](/assets/img/logo.png)
 
 ================================
-<br>
-<div class="text-left">
-  <h1>Welcome to our open site!</h1>
-  <p>Help us to improve this site!</p>
-  <br/>
-</div>
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Download](#download)
+
+## Introduction
+Welcome to the ZuhaWorld Sc! A vibrant hub of creativity, learning, and growth. Our community is dedicated to fostering innovation and collaboration among individuals from diverse backgrounds. Whether you're a tech enthusiast, a creative artist, or a curious learner, you'll find a welcoming space here. We are a collaborative team dedicated to creating innovative solutions and fostering knowledge sharing. ZuhaWorld is dedicated to creating positive social impact through innovative technology and community engagement.
+
+## Features
+- **Feature 1**: Community Engagement 1. We support community efforts by encouraging people and groups to work together and share resources.
+- **Feature 2**: Digital Marketing 2. Our digital marketing efforts focus on using social media, SEO, and content creation to draw in customers.
+- **Feature 3**: Volunteer Coordination 3. We help passionate people find volunteer opportunities that truly make a difference in their communities.
+
+## Installation
+To get started with the ZuhaWorldSite, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/zuhaworld-sc/repo-name.git
+   ```
+
+2. **Navigate to the project directory**:
+   ```bash
+   cd repo-name
+   ```
+
+3. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+4. **Run the project**:
+   ```bash
+   npm start
+   ```
+
+## Usage
+Provide detailed information on how to use the project. Include code snippets, examples, and screenshots if necessary.
+
+## Contributing
+We welcome contributions from the community! To contribute:
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b my-feature-branch`.
+3. Make your changes and commit them: `git commit -m 'Add some feature'`.
+4. Push to the branch: `git push origin my-feature-branch`.
+5. Submit a pull request.
+
+Please ensure your code follows our [coding standards](https://github.com/zuhaworld-sc/.github/blob/main/CONTRIBUTING.md#our-standards) and [contribution guidelines](https://github.com/zuhaworld-sc/.github/blob/main/CONTRIBUTING.md#contribution-guidelines).
+
+## License
+This project is licensed under the [MIT License](https://github.com/zuhaworld-sc/.github?tab=MIT-1-ov-file#).
+
+## Contact
+For any questions, feel free to [reach out to the team](mailto:info@zuhaworld.com).
+
+## Download
+Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project.
+github:
+  [Download](https://github.com/zuhaworld-sc/.github/zipball/main)
